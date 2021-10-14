@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @tpr-wtag
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m Tahinur
 
 
 <!---
